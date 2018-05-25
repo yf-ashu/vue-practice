@@ -12,9 +12,6 @@
       />
 
       </div>
-
-
-
     <!-- <h2>{{ albumData }}</h2> -->
     </div>
     <div v-else>
